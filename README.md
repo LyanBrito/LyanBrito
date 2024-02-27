@@ -8,7 +8,7 @@
 <img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" >
 <br/>
 
-## My GitHun Status
+## My GitHub Status
 <iv align="center">  
   <img width="435" height="195px" src="https://github-readme-stats.vercel.app/api?username=lyanbrito&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="Lyan Brito github stats" /> 
   <img width="435" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyanbrito&theme=radical&show_icons=true&hide_border=true&layout=compact" />
@@ -21,7 +21,7 @@
 
 <div align="center">  
 <a href="https://instagram.com/lyanbrito" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:contato@lyanbrito613"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:lyanbrito613@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </p>
