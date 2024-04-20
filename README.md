@@ -5,7 +5,7 @@
 [![Typing SVG][typing]](https://git.io/typing-svg)
 
 </div>
-<img src="https://64.media.tumblr.com/31da79fe4718671a7387c6acff643503/tumblr_mjet21w8W01rtj1m2o1_500.gif">
+<img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif">
 <br/>
 
 ## My GitHub Status
@@ -37,7 +37,7 @@
 
 </p>
 
-<img src="https://i.pinimg.com/originals/bc/87/e5/bc87e5124f8d2cfe810d403adc96ad01.gif" >
+<img src="https://64.media.tumblr.com/31da79fe4718671a7387c6acff643503/tumblr_mjet21w8W01rtj1m2o1_500.gif">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3626A7&section=footer&descAlign=57"/>
 
 [typing]: https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=3626A7&random=false&width=435&lines=Hello%2C+My+name+is+Lyan+Brito;I'm+17+years+old;I'm+from+Brazil%2C+SP;and+I'm+here+to+learn;Be+Walcome!!+%F0%9F%98%8A
