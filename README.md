@@ -37,6 +37,7 @@
  
 </p>
 
+<img width=25% src="(https://64.media.tumblr.com/31da79fe4718671a7387c6acff643503/tumblr_mjet21w8W01rtj1m2o1_500.gif)">
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3626A7&section=footer&descAlign=57"/>
 
 
