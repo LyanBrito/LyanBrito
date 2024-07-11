@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3626A7&section=header&descAlign=57"/>
 
 <br/>
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4C31F7&center=true&random=false&width=700&lines=Hello%2C+My+name+is;Lyan+Brito.;I'm+from+Brasil%2C;And+I'm+here+to+learn;Be+Welcome!)](https://git.io/typing-svg)
-
+</div>
 <br/>
 
 
