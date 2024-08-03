@@ -14,6 +14,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyanbrito&theme=dracula&hide_border=true" alt="lyanbrito" />
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyanbrito&theme=algolia)](https://github.com/lyanbrito)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
