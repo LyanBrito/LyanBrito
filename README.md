@@ -9,9 +9,9 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lyanbrito&show_icons=true&count_private=true&hide_border=true&theme=dracula" alt="Lyan Brito github stats" /> 
-  <img width="44.1%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyanbrito&layout=compact&hide_border=true&theme=dracula" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyanbrito&theme=dracula&hide_border=true" alt="lyanbrito" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lyanbrito&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lyan Brito github stats" /> 
+  <img width="44.1%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyanbrito&layout=compact&hide_border=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyanbrito&theme=tokyonight&hide_border=true" alt="lyanbrito" />
 </div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=lyanbrito&theme=algolia)](https://github.com/lyanbrito)
