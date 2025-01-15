@@ -7,6 +7,12 @@
 </div>
 <br/>
 
+# About me:
+
+ I'm a developer passionate in technology and always looking for new challenges. Throughout my journey, I gained experience in several areas, from front-end development to modern frameworks and agile methodologies. Based on personal study and free courses at SENAI, I developed a solid understanding of languages ​​and technologies more focused on front-end, in addition to working with agile methodologies.
+ 
+ I am constantly looking to improve my skills and expand my knowledge in the world of technology.
+
 # Github Stats:
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lyanbrito&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lyan Brito github stats" /> 
@@ -26,7 +32,7 @@
 <div align="center">  
 <a target="_blank" href="https://instagram.com/_lyanbrito_"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a target="_blank" href = "mailto:lyanbrito613@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a target="_blank" href="https://www.linkedin.com/in/lyan-brito-998986284/"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a target="_blank" href="https://www.linkedin.com/in/lyan-brito-998986284/"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </p>
 
