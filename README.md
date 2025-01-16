@@ -15,15 +15,18 @@
 
 # Github Stats:
 <div align="center">  
+ 
+![](https://github-readme-streak-stats-eight.vercel.app/?user=lyanbrito&theme=tokyonight&hide_border=true) 
+<br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lyanbrito&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lyan Brito github stats" /> 
   <img width="44.1%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyanbrito&layout=compact&hide_border=true&theme=tokyonight" />
 
 <!--  esta dando erro <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyanbrito&theme=tokyonight&hide_border=true" alt="lyanbrito" /> -->
 </div>
 <div align="center">
-  
+
 ![](https://github-readme-activity-graph.vercel.app/graph?username=lyanbrito&custom_title=Al%20Lyan's%20GitHub%20Activity%20Graph&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=70A5FD&area_color=1A1B27&title_color=70A5FD&area=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=lyanbrito&theme=algolia)](https://github.com/lyanbrito)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lyanbrito&theme=tokyonight)](https://github.com/lyanbrito)
 </div>
 <br/>
 
