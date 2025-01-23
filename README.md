@@ -54,6 +54,7 @@
 
  
 # Learning:
+![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![ReactNative](https://img.shields.io/badge/React_Native-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)
