@@ -55,6 +55,7 @@
 
  
 # Learning:
+![Less.js](https://img.shields.io/badge/Less-1D365D.svg?style=for-the-badge&logo=Less&logoColor=white) 
 ![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
