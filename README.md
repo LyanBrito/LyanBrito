@@ -11,7 +11,7 @@
 
  I'm a developer passionate about technology and always looking for new challenges. Throughout my journey, I gained experience in several areas, from front-end development to modern frameworks and agile methodologies. Based on personal study and free courses at SENAI, I developed a solid understanding of languages ​​and technologies more focused on front-end, in addition to working with agile methodologies.
 
-Recently, I started a technical systems development course at SENAI Suíço-Brasileiro, where I am further enhancing my skills and knowledge. 
+Recently, I started a technical systems development course at [SENAI Suíço-Brasileiro](https://sp.senai.br/unidade/suicobrasileira/), where I am further enhancing my skills and knowledge. 
 I am constantly looking to improve and expand my expertise in the world of technology.
 
 # Github Stats:
