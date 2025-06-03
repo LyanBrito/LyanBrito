@@ -53,6 +53,8 @@ I am constantly looking to improve and expand my expertise in the world of techn
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Biome](https://img.shields.io/badge/Biome-60A5FA.svg?style=for-the-badge&logo=Biome&logoColor=white)](https://biome.dev/)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![Postman](https://img.shields.io/badge/Postman-E0531F?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 
 # **Learning:**
@@ -60,7 +62,6 @@ I am constantly looking to improve and expand my expertise in the world of techn
 [![Less.js](https://img.shields.io/badge/Less-1D365D.svg?style=for-the-badge&logo=Less&logoColor=white)](http://lesscss.org/)
 [![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)](https://astro.build/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://reactjs.org/)
 [![ReactNative](https://img.shields.io/badge/React_Native-10132A?style=for-the-badge&logo=react&logoColor=61DAFC)](https://reactnative.dev/)
 [![Java](https://img.shields.io/badge/Java-000000.svg?style=for-the-badge&logo=OpenJDK&logoColor=white)](https://www.java.com/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
