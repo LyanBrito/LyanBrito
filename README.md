@@ -3,13 +3,13 @@
 <br/>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=393a82&center=true&random=false&width=700&lines=Hey+there!;+My+name+is%2C+Lyan+Brito.;I'm+from+Brasil.;I'm+here+to+learn;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=393a82&center=true&random=false&width=700&lines=Hi+there!;+My+name+is%2C+Lyan+Brito.;I'm+from+Brazil.;This+is+my+portfolio;Be+Welcome!)](https://git.io/typing-svg)
 </div>
 <br/>
 
 # About me:
 
- I'm a developer passionate about technology and always looking for new challenges. Throughout my journey, I gained experience in several areas, from front-end development to modern frameworks and agile methodologies. Based on personal study and free courses at SENAI, I developed a solid understanding of languages ​​and technologies more focused on front-end, in addition to working with agile methodologies.
+ I'm a developer passionate about technology and always looking for new challenges. Throughout my journey, I gained experience in several areas, fron web development and UI/UX design development. Based on personal study and free courses at SENAI, I developed a solid understanding of programming languages ​​and technologies more focused on front-end, in addition to working with agile methodologies.
 
 I started a technical systems development course at [SENAI Suíço-Brasileiro](https://sp.senai.br/unidade/suicobrasileira/), where I am further enhancing my skills and knowledge. 
 I am constantly looking to improve and expand my expertise in the world of technology.
@@ -21,8 +21,6 @@ I am constantly looking to improve and expand my expertise in the world of techn
 <br>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=lyanbrito&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="Lyan Brito github stats" /> 
   <img width="44.1%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyanbrito&layout=compact&hide_border=true&theme=tokyonight" />
-
-<!--  esta dando erro <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lyanbrito&theme=tokyonight&hide_border=true" alt="lyanbrito" /> -->
 </div>
 <div align="center">
 
@@ -31,7 +29,7 @@ I am constantly looking to improve and expand my expertise in the world of techn
 </div>
 <br/>
 
-# Connect With Me:
+# Contact Me:
 <p align="left">
 
 <a target="_blank" href="https://instagram.com/_lyanbrito_"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
