@@ -68,7 +68,6 @@ I am constantly looking to improve and expand my expertise in the world of techn
 [![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
-[![XaAmp](https://img.shields.io/badge/XAMPP-FB7A24.svg?style=for-the-badge&logo=XAMPP&logoColor=white)](https://www.apachefriends.org/pt_br/index.html)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3626A7&section=footer&descAlign=57"/>
