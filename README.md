@@ -58,7 +58,6 @@ I am constantly looking to improve and expand my expertise in the world of techn
 [![Postman](https://img.shields.io/badge/Postman-E0531F?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 [![Less.js](https://img.shields.io/badge/Less-1D365D.svg?style=for-the-badge&logo=Less&logoColor=white)](http://lesscss.org/)
 
-
 # **Learning:**
 
 [![Astro](https://img.shields.io/badge/Astro-BC52EE.svg?style=for-the-badge&logo=Astro&logoColor=white)](https://astro.build/)
@@ -68,6 +67,9 @@ I am constantly looking to improve and expand my expertise in the world of techn
 [![Express.js](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)](https://www.mysql.com/)
+[![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Turborepo](https://img.shields.io/badge/Turborepo-FF1E56.svg?style=for-the-badge&logo=Turborepo&logoColor=white )]([https://www.mysql.com/](https://turborepo.com))
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3626A7&section=footer&descAlign=57"/>
