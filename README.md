@@ -1,18 +1,16 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=3626A7&section=header&descAlign=57"/>
+<h3 align="center">
+  <samp>&gt; Hey There!, I am <b><a target="_blank" href="https://lyanbrito-portfolio.vercel.app">Lyan Brito</a></b></samp>
+</h3>
 
-<br/>
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=393a82&center=true&random=false&width=700&lines=Hi+there!;+My+name+is%2C+Lyan+Brito.;I'm+from+Brazil.;This+is+my+portfolio;Be+Welcome!)](https://git.io/typing-svg)
-</div>
-<br/>
-
-# About me:
-
- I'm a developer passionate about technology and always looking for new challenges. Throughout my journey, I gained experience in several areas, fron web development and UI/UX design development. Based on personal study and free courses at SENAI, I developed a solid understanding of programming languages ​​and technologies more focused on front-end, in addition to working with agile methodologies.
-
-I started a technical systems development course at [SENAI Suíço-Brasileiro](https://sp.senai.br/unidade/suicobrasileira/), where I am further enhancing my skills and knowledge. 
-I am constantly looking to improve and expand my expertise in the world of technology.
+<p align="center">
+  <samp>
+    <br>
+    「 I'm a web developer passionate about technology and focused on building modern, high-quality interfaces.
+    I work with React, Next.js, TypeScript, Styled-Components, Astro, Sass/Less, React Native and Node.js, always exploring new tools and improving my workflow.
+    Currently studying Systems Development at SENAI Suíço-Brasileiro, constantly enhancing my skills through personal projects, experiments, and real-world practice. 」
+    <br><br>
+  </samp>
+</p>
 
 # Github Stats:
 <div align="center">  
@@ -69,5 +67,3 @@ I am constantly looking to improve and expand my expertise in the world of techn
 [![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![Turborepo](https://img.shields.io/badge/Turborepo-FF1E56.svg?style=for-the-badge&logo=Turborepo&logoColor=white)](https://turborepo.com)
 [![Module Federation](https://img.shields.io/badge/Module--Federation-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black)](https://webpack.js.org/concepts/module-federation/)
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=3626A7&section=footer&descAlign=57"/>
