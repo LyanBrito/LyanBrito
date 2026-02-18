@@ -6,7 +6,7 @@
   <samp>
     <br>
     「 I'm a web developer passionate about technology and focused on building modern, high-quality interfaces.
-    I work with React, Next.js, TypeScript, Styled-Components, Astro, Sass/Less, React Native and Node.js, always exploring new tools and improving my workflow.
+    I work with Next.js, TypeScript, Styled-Components, Sass, React Native and SpringBoot, always exploring new tools and improving my workflow.
     Currently studying Systems Development at SENAI Suíço-Brasileiro, constantly enhancing my skills through personal projects, experiments, and real-world practice. 」
     <br><br>
   </samp>
@@ -17,7 +17,7 @@
 <div align="center">  
 
 ![](https://github-readme-streak-stats-eight.vercel.app/?user=lyanbrito&theme=tokyonight&hide_border=true)
-<br /><br />
+<br />
 ![](https://github-readme-activity-graph.vercel.app/graph?username=lyanbrito&custom_title=Al%20Lyan's%20GitHub%20Activity%20Graph&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=70A5FD&area_color=1A1B27&title_color=70A5FD&area=true)
 
 # Contact Me:
