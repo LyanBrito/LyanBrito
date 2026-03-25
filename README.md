@@ -13,13 +13,17 @@
 </p>
 
 # Github Stats:
+<div align="center">
+  
+![lyanbrito's Stats](https://github-readme-stats.vercel.app/api?username=lyanbrito&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+</br>
+![lyanbrito's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lyanbrito&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![lyanbrito's Streak](https://github-readme-streak-stats.herokuapp.com/?user=lyanbrito&theme=tokyonight&hide_border=true)
 
-<div align="center">  
-
-![](https://github-readme-streak-stats-eight.vercel.app/?user=lyanbrito&theme=tokyonight&hide_border=true)
-<br />
 ![](https://github-readme-activity-graph.vercel.app/graph?username=lyanbrito&custom_title=Al%20Lyan's%20GitHub%20Activity%20Graph&bg_color=1A1B27&color=38BDAE&line=70A5FD&point=70A5FD&area_color=1A1B27&title_color=70A5FD&area=true)
 
+
+</div>
 # Contact Me:
 
 <p align="left">
@@ -28,8 +32,7 @@
 <a target="_blank" href = "mailto:lyanbrito613@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a target="_blank" href="https://www.linkedin.com/in/lyan-brito-998986284/"><img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
-</div>
-<br />
+</ br>
 
 # **Skills & Tools:**
 
