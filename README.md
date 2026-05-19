@@ -1,5 +1,5 @@
 <h3 align="center">
-  <samp>&gt; Hey There!, I am <b><a href="https://lyanbrito-portifolio.vercel.app">Lyan Brito</a></b></samp>
+  <samp>&gt; Hey There!, I am <b><a href="https://lyanbrito-portifolio.vercel.app">Lyan Brito gay</a></b></samp>
 </h3>
 
 <p align="center">
